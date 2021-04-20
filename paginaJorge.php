@@ -7,7 +7,7 @@ $echo "Esto es un mensaje en php - desde la pagina de Jorge";
 
 $echo "Esto es un mensaje en php - desde la pagina de Jorge";
 
-function foo()
+function foo(1,2)
 {
     $var = 10;
 
